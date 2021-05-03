@@ -5,7 +5,8 @@ The goal of the developer exercise is to take a quick dive into a React Native t
 
 ## We need:
 ![Screenshot 2021-05-03 at 02 57 58](https://user-images.githubusercontent.com/10377338/116833779-5fd59900-abbb-11eb-8e7c-5bb9f21c41c4.png)
-## React Native
+
+## React Native (No Expo)
 1. Show current city's current weather and future weather based on GPS.
 2. User could login and store their watch list.
 3. User could share one city's weather to others by email.
