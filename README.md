@@ -12,7 +12,7 @@ The goal of the developer exercise is to take a quick dive into a React Native t
 3. User could share one city's weather to others by email.
 
 
-## Backend (Choose your favarite language)
+## Backend (Choose your favorite language)
 1. connect to DB (NoSQL, SQL, up to you)
 2. deal with signin and signup.
 3. deal with user's watch list
